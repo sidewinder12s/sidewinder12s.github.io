@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Geoff Webster</title>
+    <link>https://sidewinder12s.github.io/posts/</link>
+    <description>Recent content in Posts on Geoff Webster</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Mar 2016 22:21:30 -0700</lastBuildDate>
+    <atom:link href="https://sidewinder12s.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>By Ghost, Hello Hugo!</title>
+      <link>https://sidewinder12s.github.io/posts/new-site/</link>
+      <pubDate>Thu, 24 Mar 2016 22:21:30 -0700</pubDate>
+      
+      <guid>https://sidewinder12s.github.io/posts/new-site/</guid>
+      <description>&lt;p&gt;So I had played around a bit with Ghost the last time I had free time to do so (about 2 years ago), about a year later tried upgrading the Ghost install I had on a DigitalOcean droplet and proptly broke everything. Out of laziness and lack of content I never did get around to fixing the site. Recently started my first Full Time job (Woo Juniper Networks!) and I got to play around with testing out Hugo (along with AWS CodePipeline, CloudFront, S3 and Lambda) and decided I&amp;rsquo;d just switch my DNS over to GitHub Pages and post up a new site with Hugo. I didn&amp;rsquo;t really have any posts on the old site so most of the rangling this time around was with figuring out how GitHub Pages does static assets and figuring out how to use the Theme I picked.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
